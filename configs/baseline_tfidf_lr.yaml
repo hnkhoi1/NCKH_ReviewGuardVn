@@ -1,0 +1,26 @@
+# Baseline: TF-IDF character n-grams + Logistic Regression.
+# Works without Vietnamese word segmentation.
+experiment: baseline-content
+run_name: tfidf-char-lr
+
+data:
+  path: data/sample/synthetic_reviews.csv   # replace with the real corpus (kept outside git)
+  text_col: text
+  label_col: label        # 0 = trustworthy, 1 = suspicious
+  group_col: product_id   # split by product/shop to avoid leakage between near-duplicate reviews
+  test_size: 0.3
+  seed: 42
+
+tfidf:
+  analyzer: char_wb
+  ngram_range: [2, 5]
+  min_df: 1
+  max_features: 50000
+  sublinear_tf: true
+  lowercase: true
+
+model:
+  type: logistic_regression
+  C: 1.0
+  class_weight: balanced
+  max_iter: 1000

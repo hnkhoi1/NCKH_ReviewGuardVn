@@ -1,0 +1,12 @@
+# Heavy ML dependencies. Install PyTorch first from https://pytorch.org/get-started/locally/
+# then: pip install -r requirements-ml.txt
+-r requirements.txt
+transformers>=4.38
+datasets>=2.18
+sentence-transformers>=2.6
+shap>=0.44
+streamlit>=1.32
+networkx>=3.2
+# Clustering: scikit-learn >= 1.3 already provides sklearn.cluster.HDBSCAN.
+# The original `hdbscan` package is optional (may need C++ build tools on Windows):
+# hdbscan>=0.8.33

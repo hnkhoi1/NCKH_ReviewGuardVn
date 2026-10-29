@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reviewguard"
+version = "0.1.0"
+description = "ReviewGuard VN: detecting deceptive reviews and suspicious review patterns in Vietnamese e-commerce"
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

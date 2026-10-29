@@ -1,0 +1,428 @@
+review_id,product_id,text,rating,label
+1,P000,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao",5,1
+2,P000,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua !!!",5,1
+3,P000,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao !!!",5,1
+4,P000,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao ngay",5,1
+5,P000,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao",5,1
+6,P000,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao ngay",5,1
+7,P000,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+8,P000,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua",5,1
+9,P000,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+10,P000,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao !!!",5,1
+11,P000,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua ngay",5,1
+12,P000,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",5,0
+13,P000,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua !!!",5,1
+14,P000,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua",5,1
+15,P001,"Chat vai mem, mac mat, nhung duong chi can chinh them",5,0
+16,P001,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+17,P001,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",5,0
+18,P001,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+19,P001,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+20,P001,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+21,P001,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+22,P001,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+23,P002,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",5,0
+24,P002,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",3,0
+25,P002,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",5,0
+26,P002,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+27,P002,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+28,P002,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+29,P002,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+30,P002,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+31,P002,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+32,P002,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",3,0
+33,P002,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",5,0
+34,P002,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+35,P002,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+36,P002,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+37,P003,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+38,P003,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",3,0
+39,P003,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+40,P003,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,3,0
+41,P003,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",5,0
+42,P003,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+43,P003,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+44,P003,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,5,0
+45,P004,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao ngay",5,1
+46,P004,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua !!!",5,1
+47,P004,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua",5,1
+48,P004,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua !!!",5,1
+49,P004,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,3,0
+50,P004,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+51,P004,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao !!!",5,1
+52,P004,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao",5,1
+53,P004,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+54,P004,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua ngay",5,1
+55,P004,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",3,0
+56,P004,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua",5,1
+57,P005,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",3,0
+58,P005,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",3,0
+59,P005,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",3,0
+60,P005,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",3,0
+61,P005,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+62,P005,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+63,P005,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+64,P005,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+65,P005,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+66,P005,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",5,0
+67,P005,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",3,0
+68,P005,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",3,0
+69,P006,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+70,P006,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",5,0
+71,P006,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,3,0
+72,P006,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",5,0
+73,P006,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",3,0
+74,P006,"Chat vai mem, mac mat, nhung duong chi can chinh them",5,0
+75,P006,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+76,P006,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",5,0
+77,P006,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+78,P007,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+79,P007,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+80,P007,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+81,P007,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+82,P007,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",5,0
+83,P007,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+84,P007,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",5,0
+85,P007,"Chat vai mem, mac mat, nhung duong chi can chinh them",5,0
+86,P007,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+87,P007,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+88,P007,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+89,P007,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,3,0
+90,P007,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",3,0
+91,P008,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+92,P008,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao !!!",5,1
+93,P008,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua !!!",5,1
+94,P008,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua ngay",5,1
+95,P008,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao !!!",5,1
+96,P008,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+97,P008,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao ngay",5,1
+98,P008,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao",5,1
+99,P008,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao ngay",5,1
+100,P008,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",5,0
+101,P009,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",5,0
+102,P009,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+103,P009,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,5,0
+104,P009,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+105,P009,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+106,P009,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",5,0
+107,P009,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",3,0
+108,P009,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",5,0
+109,P010,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",5,0
+110,P010,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",5,0
+111,P010,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,3,0
+112,P010,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+113,P010,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",5,0
+114,P010,"Chat vai mem, mac mat, nhung duong chi can chinh them",5,0
+115,P010,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",3,0
+116,P010,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,3,0
+117,P010,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+118,P010,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+119,P011,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+120,P011,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+121,P011,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+122,P011,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",5,0
+123,P011,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",3,0
+124,P011,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+125,P011,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",3,0
+126,P011,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+127,P011,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+128,P012,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",3,0
+129,P012,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao ngay",5,1
+130,P012,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao !!!",5,1
+131,P012,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",5,0
+132,P012,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",5,0
+133,P012,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua",5,1
+134,P012,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua !!!",5,1
+135,P012,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao !!!",5,1
+136,P013,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+137,P013,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+138,P013,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",3,0
+139,P013,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+140,P013,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+141,P013,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+142,P013,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",5,0
+143,P013,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+144,P013,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",3,0
+145,P013,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+146,P014,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+147,P014,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",3,0
+148,P014,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",5,0
+149,P014,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+150,P014,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",3,0
+151,P014,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",5,0
+152,P014,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+153,P014,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",3,0
+154,P015,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",5,0
+155,P015,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",3,0
+156,P015,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+157,P015,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+158,P015,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,5,0
+159,P015,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+160,P015,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",3,0
+161,P015,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+162,P015,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",5,0
+163,P015,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",3,0
+164,P015,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+165,P016,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+166,P016,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao",5,1
+167,P016,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+168,P016,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao",5,1
+169,P016,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua",5,1
+170,P016,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+171,P016,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao !!!",5,1
+172,P016,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao",5,1
+173,P016,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao",5,1
+174,P016,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao ngay",5,1
+175,P016,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",5,0
+176,P017,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",5,0
+177,P017,"Chat vai mem, mac mat, nhung duong chi can chinh them",5,0
+178,P017,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",5,0
+179,P017,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+180,P017,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",5,0
+181,P017,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+182,P017,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+183,P017,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+184,P017,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+185,P018,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",3,0
+186,P018,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+187,P018,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+188,P018,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+189,P018,"Chat vai mem, mac mat, nhung duong chi can chinh them",5,0
+190,P018,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",3,0
+191,P018,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",3,0
+192,P018,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+193,P018,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,3,0
+194,P018,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",3,0
+195,P018,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+196,P018,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+197,P018,"Chat vai mem, mac mat, nhung duong chi can chinh them",5,0
+198,P018,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",5,0
+199,P019,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",3,0
+200,P019,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",3,0
+201,P019,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+202,P019,"Chat vai mem, mac mat, nhung duong chi can chinh them",5,0
+203,P019,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+204,P019,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",5,0
+205,P019,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",5,0
+206,P019,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+207,P019,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",3,0
+208,P019,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+209,P019,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+210,P019,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",3,0
+211,P020,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",5,0
+212,P020,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao",5,1
+213,P020,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao",5,1
+214,P020,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao",5,1
+215,P020,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",5,0
+216,P020,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua ngay",5,1
+217,P020,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua",5,1
+218,P020,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",5,0
+219,P020,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao !!!",5,1
+220,P020,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao !!!",5,1
+221,P020,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",3,0
+222,P021,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+223,P021,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+224,P021,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+225,P021,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,5,0
+226,P021,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",3,0
+227,P021,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",5,0
+228,P021,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+229,P021,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+230,P021,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+231,P021,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,5,0
+232,P021,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",3,0
+233,P021,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+234,P022,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",5,0
+235,P022,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+236,P022,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+237,P022,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+238,P022,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",3,0
+239,P022,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+240,P022,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+241,P022,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,3,0
+242,P023,"Chat vai mem, mac mat, nhung duong chi can chinh them",5,0
+243,P023,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+244,P023,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+245,P023,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",5,0
+246,P023,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",3,0
+247,P023,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",3,0
+248,P023,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",5,0
+249,P023,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,3,0
+250,P023,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",5,0
+251,P023,"Chat vai mem, mac mat, nhung duong chi can chinh them",5,0
+252,P023,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",5,0
+253,P023,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+254,P023,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+255,P023,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",3,0
+256,P024,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao !!!",5,1
+257,P024,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao !!!",5,1
+258,P024,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao",5,1
+259,P024,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua ngay",5,1
+260,P024,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",3,0
+261,P024,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua",5,1
+262,P024,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+263,P024,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao !!!",5,1
+264,P024,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao",5,1
+265,P024,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao !!!",5,1
+266,P025,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+267,P025,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+268,P025,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,3,0
+269,P025,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+270,P025,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,5,0
+271,P025,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+272,P025,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+273,P025,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+274,P025,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+275,P025,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+276,P026,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+277,P026,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,3,0
+278,P026,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",3,0
+279,P026,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+280,P026,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,5,0
+281,P026,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",5,0
+282,P026,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+283,P026,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",5,0
+284,P026,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+285,P026,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+286,P026,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+287,P027,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",3,0
+288,P027,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",5,0
+289,P027,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",5,0
+290,P027,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+291,P027,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+292,P027,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+293,P027,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",3,0
+294,P027,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,3,0
+295,P027,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",3,0
+296,P027,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+297,P027,"Chat vai mem, mac mat, nhung duong chi can chinh them",5,0
+298,P027,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+299,P027,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",5,0
+300,P028,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao !!!",5,1
+301,P028,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+302,P028,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua",5,1
+303,P028,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao !!!",5,1
+304,P028,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua !!!",5,1
+305,P028,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao",5,1
+306,P028,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua !!!",5,1
+307,P028,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao !!!",5,1
+308,P028,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",3,0
+309,P029,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+310,P029,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",5,0
+311,P029,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",3,0
+312,P029,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+313,P029,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+314,P029,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+315,P029,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",5,0
+316,P029,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",3,0
+317,P029,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+318,P029,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+319,P029,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+320,P029,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",3,0
+321,P029,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",3,0
+322,P030,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+323,P030,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+324,P030,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+325,P030,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,3,0
+326,P030,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+327,P030,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+328,P030,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+329,P030,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",3,0
+330,P030,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",5,0
+331,P030,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+332,P030,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",5,0
+333,P030,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+334,P030,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,3,0
+335,P030,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+336,P031,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",5,0
+337,P031,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+338,P031,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",5,0
+339,P031,"Chat vai mem, mac mat, nhung duong chi can chinh them",5,0
+340,P031,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,5,0
+341,P031,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+342,P031,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",3,0
+343,P031,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+344,P031,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,5,0
+345,P031,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+346,P031,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+347,P032,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao ngay",5,1
+348,P032,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+349,P032,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua ngay",5,1
+350,P032,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao",5,1
+351,P032,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao !!!",5,1
+352,P032,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+353,P032,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+354,P032,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+355,P032,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao ngay",5,1
+356,P032,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao !!!",5,1
+357,P032,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua !!!",5,1
+358,P033,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+359,P033,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+360,P033,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+361,P033,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,5,0
+362,P033,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",5,0
+363,P033,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",5,0
+364,P033,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+365,P033,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,5,0
+366,P033,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,3,0
+367,P034,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+368,P034,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+369,P034,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+370,P034,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+371,P034,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+372,P034,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",3,0
+373,P034,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+374,P034,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",5,0
+375,P034,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",3,0
+376,P034,"Chat vai mem, mac mat, nhung duong chi can chinh them",5,0
+377,P034,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",5,0
+378,P035,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",5,0
+379,P035,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+380,P035,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",3,0
+381,P035,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",3,0
+382,P035,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+383,P035,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+384,P035,"Chat vai mem, mac mat, nhung duong chi can chinh them",3,0
+385,P035,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,3,0
+386,P035,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+387,P035,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",5,0
+388,P035,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+389,P036,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua",5,1
+390,P036,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao !!!",5,1
+391,P036,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao !!!",5,1
+392,P036,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua",5,1
+393,P036,"San pham tuyet voi, shop uy tin, nhat dinh se ung ho dai dai, 5 sao",5,1
+394,P036,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+395,P036,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+396,P036,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao !!!",5,1
+397,P036,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua",5,1
+398,P036,"Shop dong goi ky, tu van nhiet tinh, san pham tot, nen mua",5,1
+399,P036,"Hang dep chat luong, giao hang sieu nhanh, rat hai long, 5 sao ngay",5,1
+400,P037,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",5,0
+401,P037,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",5,0
+402,P037,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",3,0
+403,P037,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",3,0
+404,P037,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,3,0
+405,P037,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,5,0
+406,P037,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,5,0
+407,P037,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",3,0
+408,P037,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",5,0
+409,P037,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0
+410,P037,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,5,0
+411,P038,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+412,P038,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+413,P038,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",3,0
+414,P038,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+415,P038,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+416,P038,"Chat vai mem, mac mat, nhung duong chi can chinh them",4,0
+417,P038,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",5,0
+418,P038,"Giao dung hen, shop tu van nhiet tinh, loa nghe duoc",4,0
+419,P038,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",4,0
+420,P039,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",3,0
+421,P039,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,5,0
+422,P039,Mau hoi khac anh mot chut nhung chat luong tam on voi gia tien,4,0
+423,P039,"Mua lan thu hai, lan nay tay ao vua hon, se mua them size khac",3,0
+424,P039,"Chat vai mem, mac mat, nhung duong chi can chinh them",5,0
+425,P039,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",3,0
+426,P039,"San pham dung nhu mo ta, dung duoc 2 tuan thay on dinh",4,0
+427,P039,"May dung on, pin trau, giao hang hoi cham nhung dong goi can than",4,0

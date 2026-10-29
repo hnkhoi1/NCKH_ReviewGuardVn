@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
+
+# Secrets and local settings
+.env
+*.key
+*.pem
+
+# Data (never commit raw or scraped reviews; the public repo is visible to everyone)
+data/raw/*
+data/interim/*
+data/processed/*
+data/external/*
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+!data/external/.gitkeep
+
+# Experiment tracking and model weights
+mlruns/
+mlartifacts/
+mlflow.db
+/models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.joblib
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
