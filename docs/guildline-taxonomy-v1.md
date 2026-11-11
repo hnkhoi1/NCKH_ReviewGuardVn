@@ -67,7 +67,7 @@ QUY TẮC ĐỊNH LƯỢNG VÀ PHÂN LOẠI VĂN BẢN/HÌNH ẢNH
 ## 4. Quy trình Đánh giá Đa nguồn (Image-First Workflow)
 
 1. **Bước 1 (Xác thực Hình ảnh):** 
-   - Không ảnh $\rightarrow$ Xét Text.
+   - Không ảnh $\rightarrow$Đưa vào `Uncertain`, Xét Text.
    - Ảnh lạc đề (meme, màn hình đen) $\rightarrow$ Đưa vào `Uncertain`, xét Text. 
    - Ảnh copy mạng/shop $\rightarrow$ Cảnh báo `Deceptive`.
    - Ảnh sai sản phẩm $\rightarrow$ Cảnh báo `Misleading`.
